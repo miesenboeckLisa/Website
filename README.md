@@ -1,4 +1,4 @@
-# Website
+# Website Typo3
 a website for a fictitious company 
 
 the website was created with the content mangament system - Typo3 
